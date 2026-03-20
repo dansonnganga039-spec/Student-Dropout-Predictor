@@ -1,0 +1,20 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Data files — students keep these locally, do NOT push them
+*.csv
+*.xlsx
+*.zip
+
+# Environment files — never push passwords or API keys
+.env
+venv/
+env/
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
